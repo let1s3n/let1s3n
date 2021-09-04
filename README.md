@@ -1,4 +1,4 @@
-### Hiiiiii, I'm Jose :D <img height="28em" src="https://user-images.githubusercontent.com/77455193/132065537-7add36b8-b0c1-407a-b364-de7cb0da2637.png"/>
+### Hiiiiii, I'm Jose :D
 
 <div>
   <a href="https://github.com/let1s3n">
@@ -9,22 +9,20 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="koala-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="koala-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="koala-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="koala-node" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
-  <img align="right" alt="koala-menera" height="150" width="170" src="https://thumbs.gfycat.com/SimilarDistortedHuman-max-1mb.gif">
-  <img align="right" alt="koala-menera" height="150" width="170" src="https://i.pinimg.com/originals/6a/8e/1b/6a8e1be3eb19ab84072e8a399c5d88a9.gif">
+  <img align="center" alt="node" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
 </div>
 
  ##
  
 <div> 
-  <a href="https://www.instagram.com/dayanahuaytallatineo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/TgRCxxEz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dayana.huaytalla.tineo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dayana-huaytalla-tineo-71751387" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--   <a href="https://www.instagram.com/dayanahuaytallatineo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+<!--  <a href="https://discord.gg/TgRCxxEz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
+  <a href = "mailto:letisendev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jcarneiro91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/let1s3n/let1s3n/blob/output/github-contribution-grid-snake.svg)
  
