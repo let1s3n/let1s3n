@@ -1,4 +1,4 @@
-### Hiiiiii, I'm Jose :D
+### Hi, I'm Jose ^◕ﻌ◕^
 
 <div>
   <a href="https://github.com/let1s3n">
